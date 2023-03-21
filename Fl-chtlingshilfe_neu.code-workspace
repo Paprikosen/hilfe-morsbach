@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Fl-chtlingshilfe_neu"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Test"
+	}
+}
